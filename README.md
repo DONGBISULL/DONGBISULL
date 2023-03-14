@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=FFFFFF"/></a>
 
 -->
-![DongBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdb7734@naver.com&show_icons=true&theme=transparent)
+![DongBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONGBISULL&show_icons=true&theme=transparent)
