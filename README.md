@@ -1,10 +1,4 @@
 
-<!--
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
-
- 
--->
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=dongbi's%20GitHub&fontAlign=69&fontAlignY=40"/>
 
 <div align="center"> 
@@ -51,9 +45,9 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DONGBISULL&layout=compact&theme=tokyonight)
 
-
-![DongBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONGBISULL&show_icons=true&theme=transparent)
-
-
+ ![DongBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONGBISULL&show_icons=true&theme=transparent)
+ 
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=db7734)](https://solved.ac/db7734)
 
 
